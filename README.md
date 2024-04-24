@@ -1,6 +1,6 @@
 [![Per Scholas](per_scholas_logo.png)](https://www.perscholas.org) 
 
-# GLAB-340.4.1-Strings
+# PA - 340.3.1 - Practice Assignment - Strings
 
 ## Introduction
 In this project, learner will create a word play game using Python strings. The game will prompt the user to enter a word, and then apply a series of operations to the word to generate new words.
